@@ -24,15 +24,15 @@ label {
 
 h1 {
     padding: 2% 11%;
-    color: #fa8072;
+    color: Green;
 }
 
 .btn-signup {
-    background-color: #fa8072;
+    background-color: Green;
     color: white;
     border: none;
     border-radius: 5px;
     font-size: 24px;
-    margin-left: 52%;
+    margin-left: 9%;
     padding: 2% 6%;
 }
